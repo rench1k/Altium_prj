@@ -55,7 +55,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DOUOJTWW
 
 [Document2]
 DocumentPath=Sheet1_PCI_mez.SchDoc
@@ -72,7 +72,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RWRQXBHA
 
 [Document3]
 DocumentPath=..\..\Altium_libs\5145154-4\5145154-4.SchLib
